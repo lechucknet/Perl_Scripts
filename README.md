@@ -1,2 +1,2 @@
-# Perl_Scritps
+# Perl_Scripts
 Perl Code and Patchs
